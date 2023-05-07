@@ -19,4 +19,4 @@ This is a web app that emulates the classic Simon game, where you have to follow
 
 ## Demo
 
-You can view a live demo of this app here: https://akcumeh.github.io/simon-game/
+You can view a live demo of this app here: https://akcumeh.github.io/simon-game
